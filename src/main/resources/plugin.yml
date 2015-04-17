@@ -1,0 +1,9 @@
+name: MontyLove2
+version: 0.1
+description: Date and marry other people.
+author: tryy3
+main: us.tryy3.montylove2.Main
+commands:
+    marry:
+        usage: /<command> (args)
+        aliases: [montylove, ml, love, m, marriage, date, d]
